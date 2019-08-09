@@ -4,11 +4,11 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 20px;
+  padding: 25px;
   font-size: 2.2em;
   overflow: hidden;
 }
 .button:active {
-  background-color: #ffaee7;
+  background-color: #9b9bfb;
   /*Active é para quando clicar o botão muda de cor*/
 }
